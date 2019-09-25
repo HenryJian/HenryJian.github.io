@@ -1,0 +1,98 @@
+{
+    "name": "all maskable all any",
+    "short_name": "all maskable all any",
+    "scope": ".",
+    "start_url": ".",
+    "display": "standalone",
+    "orientation": "any",
+    "background_color": "#fff",
+    "theme_color": "#f78f21",
+    "icons": [
+        {
+            "src": "//images/hdpi.png", 
+            "type": "image/png", 
+            "purpose": "any", 
+            "sizes": "72x72"
+        }, 
+        {
+            "src": "/images/splash-xxxhdpi.png", 
+            "type": "image/png", 
+            "purpose": "any", 
+            "sizes": "288x288"
+        }, 
+        {
+            "src": "/images/mdpi.png", 
+            "type": "image/png", 
+            "purpose": "any", 
+            "sizes": "48x48"
+        }, 
+        {
+            "src": "/images/xxxhdpi.png", 
+            "type": "image/png", 
+            "purpose": "any", 
+            "sizes": "192x192"
+        }, 
+        {
+            "src": "/images/xxhdpi.png", 
+            "type": "image/png", 
+            "purpose": "any", 
+            "sizes": "144x144"
+        }, 
+        {
+            "src": "/images/xhdpi.png", 
+            "type": "image/png", 
+            "purpose": "any", 
+            "sizes": "96x96"
+        }, 
+        {
+            "src": "/images/splash-xxhdpi.png", 
+            "type": "image/png", 
+            "purpose": "any", 
+            "sizes": "240x240"
+        }, 
+        {
+            "src": "/images/maskable-hdpi.png", 
+            "type": "image/png", 
+            "purpose": "maskable", 
+            "sizes": "162x162"
+        }, 
+        {
+            "src": "/images/maskable-splash-xxxhdpi.png", 
+            "type": "image/png", 
+            "purpose": "maskable", 
+            "sizes": "648x648"
+        }, 
+        {
+            "src": "/images/maskable-mdpi.png", 
+            "type": "image/png", 
+            "purpose": "maskable", 
+            "sizes": "108x108"
+        }, 
+        {
+            "src": "/images/maskable-xxxhdpi.png", 
+            "type": "image/png", 
+            "purpose": "maskable", 
+            "sizes": "432x432"
+        }, 
+        {
+            "src": "/images/maskable-xxhdpi.png", 
+            "type": "image/png", 
+            "purpose": "maskable", 
+            "sizes": "324x324"
+        }, 
+        {
+            "src": "/images/maskable-xhdpi.png", 
+            "type": "image/png", 
+            "purpose": "maskable", 
+            "sizes": "216x216"
+        }, 
+        {
+            "src": "/images/maskable-splash-xxhdpi.png", 
+            "type": "image/png", 
+            "purpose": "maskable", 
+            "sizes": "540x540"
+        }
+    
+    ]
+  }
+    

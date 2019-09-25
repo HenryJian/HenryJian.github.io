@@ -1,0 +1,19 @@
+{
+    "name": "xhdpi any",
+    "short_name": "xhdpi any",
+    "scope": ".",
+    "start_url": ".",
+    "display": "standalone",
+    "orientation": "any",
+    "background_color": "#fff",
+    "theme_color": "#f78f21",
+    "icons": [
+        {
+            "src": "/images/xhdpi.png", 
+            "type": "image/png", 
+            "purpose": "any", 
+            "sizes": "96x96"
+        }
+    ]
+  }
+    

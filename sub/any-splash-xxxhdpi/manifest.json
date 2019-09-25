@@ -1,0 +1,19 @@
+{
+    "name": "splash xxxhdpi any",
+    "short_name": "splash xxxhdpi any",
+    "scope": ".",
+    "start_url": ".",
+    "display": "standalone",
+    "orientation": "any",
+    "background_color": "#fff",
+    "theme_color": "#f78f21",
+    "icons": [
+        {
+            "src": "/images/splash-xxxhdpi.png", 
+            "type": "image/png", 
+            "purpose": "any", 
+            "sizes": "288x288"
+        }
+    ]
+  }
+    

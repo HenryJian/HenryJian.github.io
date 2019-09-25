@@ -1,0 +1,55 @@
+{
+    "name": "all any",
+    "short_name": "all any",
+    "scope": ".",
+    "start_url": ".",
+    "display": "standalone",
+    "orientation": "any",
+    "background_color": "#fff",
+    "theme_color": "#f78f21",
+    "icons": [
+        {
+            "src": "//images/hdpi.png", 
+            "type": "image/png", 
+            "purpose": "any", 
+            "sizes": "72x72"
+        }, 
+        {
+            "src": "/images/splash-xxxhdpi.png", 
+            "type": "image/png", 
+            "purpose": "any", 
+            "sizes": "288x288"
+        }, 
+        {
+            "src": "/images/mdpi.png", 
+            "type": "image/png", 
+            "purpose": "any", 
+            "sizes": "48x48"
+        }, 
+        {
+            "src": "/images/xxxhdpi.png", 
+            "type": "image/png", 
+            "purpose": "any", 
+            "sizes": "192x192"
+        }, 
+        {
+            "src": "/images/xxhdpi.png", 
+            "type": "image/png", 
+            "purpose": "any", 
+            "sizes": "144x144"
+        }, 
+        {
+            "src": "/images/xhdpi.png", 
+            "type": "image/png", 
+            "purpose": "any", 
+            "sizes": "96x96"
+        }, 
+        {
+            "src": "/images/splash-xxhdpi.png", 
+            "type": "image/png", 
+            "purpose": "any", 
+            "sizes": "240x240"
+        }
+    ]
+  }
+    

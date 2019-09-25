@@ -1,0 +1,19 @@
+{
+    "name": "Only M Mdpi",
+    "short_name": "only m mdpi",
+    "scope": ".",
+    "start_url": ".",
+    "display": "standalone",
+    "orientation": "any",
+    "background_color": "#fff",
+    "theme_color": "#f78f21",
+    "icons": [
+      {
+        "src": "/images/maskable-mdpi.png",
+        "sizes": "108x108",
+        "type": "image/png",
+        "purpose": "maskable"
+      }
+    ]
+  }
+  

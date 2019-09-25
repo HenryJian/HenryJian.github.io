@@ -1,0 +1,19 @@
+{
+    "name": "mdpi any",
+    "short_name": "mdpi any",
+    "scope": ".",
+    "start_url": ".",
+    "display": "standalone",
+    "orientation": "any",
+    "background_color": "#fff",
+    "theme_color": "#f78f21",
+    "icons": [
+        {
+            "src": "/images/mdpi.png", 
+            "type": "image/png", 
+            "purpose": "any", 
+            "sizes": "48x48"
+        }
+    ]
+  }
+    

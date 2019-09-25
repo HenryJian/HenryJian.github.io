@@ -1,0 +1,19 @@
+{
+    "name": "maskable xxxh",
+    "short_name": "maskable xxxh",
+    "scope": ".",
+    "start_url": ".",
+    "display": "standalone",
+    "orientation": "any",
+    "background_color": "#fff",
+    "theme_color": "#f78f21",
+    "icons": [
+        {
+            "src": "/images/maskable-xxxhdpi.png", 
+            "type": "image/png", 
+            "purpose": "maskable", 
+            "sizes": "432x432"
+        }
+    ]
+  }
+    

@@ -1,0 +1,19 @@
+{
+  "name": "Only M Xhdpi",
+  "short_name": "only m xhdpi",
+  "scope": ".",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#fff",
+  "theme_color": "#f78f21",
+  "icons": [
+    {
+      "src": "/images/maskable-xhdpi.png",
+      "sizes": "216x216",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
+  
