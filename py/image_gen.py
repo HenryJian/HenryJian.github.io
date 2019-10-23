@@ -65,7 +65,7 @@ def main():
 
     app_dp = 48
     app = {}
-    maskable_dp = 108
+    maskable_dp = 83
     maskable = {}
 
     for dpi, ratio in dp2px.items():
@@ -88,4 +88,4 @@ def main():
     
 
 if __name__ == '__main__':
-    main()
+    old_main()
