@@ -7,12 +7,12 @@
     "orientation": "any",
     "background_color": "#fff",
     "theme_color": "#f78f21",
-    "icons": [
+    "icons": [ 
         {
             "src": "/images/maskable-xxxhdpi.png", 
             "type": "image/png", 
             "purpose": "maskable", 
-            "sizes": "432x432"
+            "sizes": "332x332"
         }
     ]
   }

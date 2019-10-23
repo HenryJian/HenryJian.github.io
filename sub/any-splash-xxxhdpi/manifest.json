@@ -12,7 +12,7 @@
             "src": "/images/splash-xxxhdpi.png", 
             "type": "image/png", 
             "purpose": "any", 
-            "sizes": "288x288"
+            "sizes": "512x512"
         }
     ]
   }
