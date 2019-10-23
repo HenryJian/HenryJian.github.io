@@ -12,45 +12,32 @@
             "src": "/images/maskable-hdpi.png", 
             "type": "image/png", 
             "purpose": "maskable", 
-            "sizes": "162x162"
-        }, 
-        {
-            "src": "/images/maskable-splash-xxxhdpi.png", 
-            "type": "image/png", 
-            "purpose": "maskable", 
-            "sizes": "648x648"
+            "sizes": "124x124"
         }, 
         {
             "src": "/images/maskable-mdpi.png", 
             "type": "image/png", 
             "purpose": "maskable", 
-            "sizes": "108x108"
+            "sizes": "83x83"
         }, 
         {
             "src": "/images/maskable-xxxhdpi.png", 
             "type": "image/png", 
             "purpose": "maskable", 
-            "sizes": "432x432"
+            "sizes": "332x332"
         }, 
         {
             "src": "/images/maskable-xxhdpi.png", 
             "type": "image/png", 
             "purpose": "maskable", 
-            "sizes": "324x324"
+            "sizes": "250x250"
         }, 
         {
             "src": "/images/maskable-xhdpi.png", 
             "type": "image/png", 
             "purpose": "maskable", 
-            "sizes": "216x216"
-        }, 
-        {
-            "src": "/images/maskable-splash-xxhdpi.png", 
-            "type": "image/png", 
-            "purpose": "maskable", 
-            "sizes": "540x540"
+            "sizes": "166x166"
         }
-    
     ]
   }
     
