@@ -1,6 +1,6 @@
 {
-    "name": "all any",
-    "short_name": "all any",
+    "name": "change",
+    "short_name": "change",
     "scope": ".",
     "start_url": ".",
     "display": "standalone",
