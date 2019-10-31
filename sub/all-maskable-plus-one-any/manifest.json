@@ -1,0 +1,49 @@
+{
+    "name": "all maskable",
+    "short_name": "all maskable",
+    "scope": ".",
+    "start_url": ".",
+    "display": "standalone",
+    "orientation": "any",
+    "background_color": "#fff",
+    "theme_color": "#f78f21",
+    "icons": [
+        {
+            "src": "/images/maskable-hdpi.png", 
+            "type": "image/png", 
+            "purpose": "maskable", 
+            "sizes": "124x124"
+        }, 
+        {
+            "src": "/images/maskable-mdpi.png", 
+            "type": "image/png", 
+            "purpose": "maskable", 
+            "sizes": "83x83"
+        }, 
+        {
+            "src": "/images/maskable-xxxhdpi.png", 
+            "type": "image/png", 
+            "purpose": "maskable", 
+            "sizes": "332x332"
+        }, 
+        {
+            "src": "/images/maskable-xxhdpi.png", 
+            "type": "image/png", 
+            "purpose": "maskable", 
+            "sizes": "250x250"
+        }, 
+        {
+            "src": "/images/maskable-xhdpi.png", 
+            "type": "image/png", 
+            "purpose": "maskable", 
+            "sizes": "166x166"
+        },
+        {
+            "src": "/images/xhdpi.png", 
+            "type": "image/png", 
+            "purpose": "any", 
+            "sizes": "96x96"
+        }
+    ]
+  }
+    
