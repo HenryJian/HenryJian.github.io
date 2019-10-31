@@ -1,6 +1,6 @@
 {
-    "name": "all maskable",
-    "short_name": "all maskable",
+    "name": "all maskable plus a any",
+    "short_name": "all maskable plus a any",
     "scope": ".",
     "start_url": ".",
     "display": "standalone",
