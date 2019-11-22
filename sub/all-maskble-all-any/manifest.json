@@ -39,7 +39,7 @@
             "sizes": "166x166"
         },
         {
-            "src": "//images/hdpi.png", 
+            "src": "/images/hdpi.png", 
             "type": "image/png", 
             "purpose": "any", 
             "sizes": "72x72"
