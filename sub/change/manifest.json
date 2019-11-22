@@ -11,31 +11,31 @@
         {
             "src": "/images/hdpi.png", 
             "type": "image/png", 
-            "purpose": "any", 
+            "purpose": "any maskable", 
             "sizes": "72x72"
         }, 
         {
             "src": "/images/splash-xxxhdpi.png", 
             "type": "image/png", 
-            "purpose": "any", 
+            "purpose": "any maskable", 
             "sizes": "512x512"
         }, 
         {
             "src": "/images/mdpi.png", 
             "type": "image/png", 
-            "purpose": "any", 
+            "purpose": "any maskable", 
             "sizes": "48x48"
         }, 
         {
             "src": "/images/xxxhdpi.png", 
             "type": "image/png", 
-            "purpose": "any", 
+            "purpose": "any maskable", 
             "sizes": "192x192"
         }, 
         {
             "src": "/images/xxhdpi.png", 
             "type": "image/png", 
-            "purpose": "any", 
+            "purpose": "any maskable", 
             "sizes": "144x144"
         }, 
         {
@@ -47,7 +47,7 @@
         {
             "src": "/images/splash-xxhdpi.png", 
             "type": "image/png", 
-            "purpose": "any", 
+            "purpose": "any maskable", 
             "sizes": "384x384"
         }
     ]
